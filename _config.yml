@@ -12,3 +12,23 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
+
+
+
+timezone: Asia/Tokyo date
+
+# future:      true
+# show_drafts: nil
+# limit_posts: 0
+# pygments:    true
+
+# relative_permalinks: true
+
+# permalink:     date
+
+excerpt_separator: "<!-- more -->"
+
+
+
+paginate: 20
+# paginate_path: 'page:num'
